@@ -1,3 +1,3 @@
 ## squareroot_structural
 
-### square root computer with structural approach
+### square root computer with structural approach in vhdl
